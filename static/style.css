@@ -1,0 +1,56 @@
+
+/* Css files (Like this one) are where all the designing of the website is kept. */
+
+h1,
+h2,
+h3,
+h4,
+p {
+    font-family: verdana;
+}
+
+body {
+    display: inline;
+    font-family: verdana;
+    background-color: #2C2F33;
+}
+
+:root {
+    color: #d5e0e7;
+}
+
+.add-btn {
+    height: 40px;
+    width: 150px;
+    color: #FFFFFF;
+    background-color: #03d603;
+    border: 1px solid #029902;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.add-btn:hover {
+    color: #029902;
+    background-color: #00ff002f;
+    border: 1px solid #029902;
+    border-radius: 5px;
+}
+
+.add-btn:focus {
+    color: #029902;
+    background-color: #00ff002f;
+    border: 1px solid #029902;
+    border-radius: 5px;
+}
+
+.form-feild {
+    height: 40px;
+    width: 200px;
+    border: 1px solid #99AAB5;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #2C2F33;
+}
+

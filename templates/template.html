@@ -1,0 +1,24 @@
+<html>
+<!-- This is the template file. Any code written here will automatically be carried onto the files that extend from this file(eg: home.html, account.html) -->
+<head>
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Python Website Demo</title>
+</head>
+
+<body>
+    <div>
+        <center>
+            <h1 style="font-family:verdana;">Simple Python Website Demo</h1>
+            <p>Note how these are defined under templates/template.html and dont need to be repeted on each and every
+                page</p>
+        </center>
+
+    </div>
+    <div>
+        <center>
+            {% block body %} {% endblock %}
+        </center>
+    </div>
+</body>
+
+</html>
