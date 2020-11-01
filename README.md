@@ -15,7 +15,6 @@ This Repo should help you to get a simple Python website setup using the Flask f
                 
 ## Setting Up The Test Project
  - ### Ensure steps in [To-Do](https://github.com/amitojsingh366/python-simple-website#to-do) are completed
- - ### Run the commands in [Useful Stuff](https://github.com/amitojsingh366/python-simple-website#useful-stuff)
  - ### Downloading the test project code
     - [x] Download the code from this repo
        - Code can be downloaded from [here](https://github.com/amitojsingh366/python-simple-website/archive/master.zip) or by using the green button above
