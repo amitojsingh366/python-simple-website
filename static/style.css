@@ -44,6 +44,17 @@ body {
     border-radius: 5px;
 }
 
+.remove-btn {
+    height: 40px;
+    width: 150px;
+    color: #ffffff;
+    background-color: #ff0000;
+    border: 1px solid #029902;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
 .form-feild {
     height: 40px;
     width: 200px;
